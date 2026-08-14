@@ -1,0 +1,13 @@
+{
+  "metas": [
+    {
+      "id": "naruto_kai",
+      "type": "series",
+      "name": "Naruto Kai",
+      "poster": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/poster.jpg",
+      "background": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/background.jpg",
+      "logo": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/logo.png",
+      "description": "A fan-cut edit of Naruto stripped of filler, recaps and padding as 72 volumes."
+    }
+  ]
+}

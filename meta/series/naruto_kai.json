@@ -1,0 +1,589 @@
+{
+  "meta": {
+    "id": "naruto_kai",
+    "type": "series",
+    "name": "Naruto Kai",
+    "poster": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/poster.jpg",
+    "background": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/background.jpg",
+    "logo": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/logo.png",
+    "description": "Naruto Kai complete collection (72 Volumes/Episodes).",
+    "videos": [
+      {
+        "id": "naruto_kai:1",
+        "title": "Volume 1",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.826Z"
+      },
+      {
+        "id": "naruto_kai:2",
+        "title": "Volume 2",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:3",
+        "title": "Volume 3",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:4",
+        "title": "Volume 4",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:5",
+        "title": "Volume 5",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:6",
+        "title": "Volume 6",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:7",
+        "title": "Volume 7",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:8",
+        "title": "Volume 8",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:9",
+        "title": "Volume 9",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:10",
+        "title": "Volume 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:11",
+        "title": "Volume 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:12",
+        "title": "Volume 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:13",
+        "title": "Volume 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:14",
+        "title": "Volume 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:15",
+        "title": "Volume 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:16",
+        "title": "Volume 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:17",
+        "title": "Volume 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:18",
+        "title": "Volume 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:19",
+        "title": "Volume 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:20",
+        "title": "Volume 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:21",
+        "title": "Volume 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:22",
+        "title": "Volume 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:23",
+        "title": "Volume 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:24",
+        "title": "Volume 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:25",
+        "title": "Volume 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:26",
+        "title": "Volume 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:27",
+        "title": "Volume 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:28",
+        "title": "Volume 28",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:29",
+        "title": "Volume 29",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:30",
+        "title": "Volume 30",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:31",
+        "title": "Volume 31",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:32",
+        "title": "Volume 32",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:33",
+        "title": "Volume 33",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:34",
+        "title": "Volume 34",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:35",
+        "title": "Volume 35",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:36",
+        "title": "Volume 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:37",
+        "title": "Volume 37",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:38",
+        "title": "Volume 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:39",
+        "title": "Volume 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:40",
+        "title": "Volume 40",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:41",
+        "title": "Volume 41",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:42",
+        "title": "Volume 42",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:43",
+        "title": "Volume 43",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:44",
+        "title": "Volume 44",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:45",
+        "title": "Volume 45",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:46",
+        "title": "Volume 46",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:47",
+        "title": "Volume 47",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:48",
+        "title": "Volume 48",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:49",
+        "title": "Volume 49",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:50",
+        "title": "Volume 50",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:51",
+        "title": "Volume 51",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:52",
+        "title": "Volume 52",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:53",
+        "title": "Volume 53",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:54",
+        "title": "Volume 54",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:55",
+        "title": "Volume 55",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:56",
+        "title": "Volume 56",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.847Z"
+      },
+      {
+        "id": "naruto_kai:57",
+        "title": "Volume 57",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:58",
+        "title": "Volume 58",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:59",
+        "title": "Volume 59",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:60",
+        "title": "Volume 60",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:61",
+        "title": "Volume 61",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:62",
+        "title": "Volume 62",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:63",
+        "title": "Volume 63",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:64",
+        "title": "Volume 64",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:65",
+        "title": "Volume 65",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:66",
+        "title": "Volume 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:67",
+        "title": "Volume 67",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:68",
+        "title": "Volume 68",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:69",
+        "title": "Volume 69",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:70",
+        "title": "Volume 70",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:71",
+        "title": "Volume 71",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      },
+      {
+        "id": "naruto_kai:72",
+        "title": "Volume 72",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
+        "released": "2026-08-14T23:10:51.848Z"
+      }
+    ]
+  }
+}

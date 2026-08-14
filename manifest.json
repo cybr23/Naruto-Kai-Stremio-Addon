@@ -1,0 +1,21 @@
+{
+  "id": "org.narutokai.stremio.static",
+  "version": "1.0.0",
+  "name": "Naruto Kai",
+  "description": "Stream Naruto Kai (Volumes 1-72) directly via P2P torrent player.",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "narutokai_catalog",
+      "name": "Naruto Kai"
+    }
+  ]
+}
