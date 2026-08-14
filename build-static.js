@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 
 // --- CONFIGURATION ---
-// Replace with your GitHub username and repository name
 const GITHUB_USER = 'cybr23';
 const GITHUB_REPO = 'Naruto-Kai-Stremio-Addon';
 
@@ -23,10 +22,10 @@ fs.mkdirSync(path.join(OUT_DIR, 'catalog', 'series'), { recursive: true });
 fs.mkdirSync(path.join(OUT_DIR, 'meta', 'series'), { recursive: true });
 fs.mkdirSync(path.join(OUT_DIR, 'stream', 'series'), { recursive: true });
 
-// 1. Manifest
+// 1. Manifest (Bumped version to 1.0.1 for cache invalidate)
 const manifest = {
   id: 'org.narutokai.stremio.static',
-  version: '1.0.0',
+  version: '1.0.1',
   name: 'Naruto Kai',
   description: 'Stream Naruto Kai (Volumes 1-72) directly via P2P torrent player.',
   resources: ['catalog', 'meta', 'stream'],
@@ -57,7 +56,7 @@ const catalog = {
 };
 fs.writeFileSync(path.join(OUT_DIR, 'catalog', 'series', 'narutokai_catalog.json'), JSON.stringify(catalog, null, 2));
 
-// 3. Meta (Videos list with universal thumbnail)
+// 3. Meta (Videos list with universal thumbnail & fixed release date)
 const episodes = [];
 for (let i = 1; i <= TOTAL_VOLUMES; i++) {
   episodes.push({
@@ -66,7 +65,7 @@ for (let i = 1; i <= TOTAL_VOLUMES; i++) {
     season: 1,
     episode: i,
     thumbnail: ARTWORK.thumbnail,
-    released: new Date().toISOString()
+    released: '2002-10-03T00:00:00.000Z' // Hardcoded past date removes hourglass overlay
   });
 }
 
