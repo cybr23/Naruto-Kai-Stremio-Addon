@@ -2,587 +2,713 @@
   "meta": {
     "id": "naruto_kai",
     "type": "series",
-    "name": "Naruto Kai",
-    "poster": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/poster.jpg",
-    "background": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/background.jpg",
-    "logo": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/logo.png",
-    "description": "Naruto Kai complete collection (72 Volumes/Episodes).",
+    "name": "Naruto Kai Ultimate Subbed Edition",
+    "poster": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/poster.jpg",
+    "background": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/background.jpg",
+    "logo": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/logo.png",
+    "description": "NARUTO KAI: ULTIMATE SUBBED EDITION\n\nA fan project dedicated to removing filler, padding, and executive recaps from the anime. Each episode roughly corresponds to one manga volume (1–72). \n\nIncludes re-translated Japanese dub subtitles, restored canonical scenes, Omake extras, The Last: Naruto the Movie, and Itachi Shinden.\n\nNyaa Torrent: https://nyaa.si/?q=671b08e4ff6d2b2630cd5dd4b894f79e01c5f2ff\n\n--------------------------------------------------\nNote on Complete Canon:\nTo watch 100% of canonical Naruto prior to Boruto, watch these outside this torrent:\n• The Day Naruto Became Hokage (OVA)\n• Naruto Shippuden Episodes 484–500 (Blank Period Novels: Sasuke Shinden, Shikamaru Hiden, and Konoha Hiden)",
     "videos": [
       {
         "id": "naruto_kai:1",
-        "title": "Volume 1",
+        "title": "Episode 01 - Naruto Uzumaki! (Ch. 1–7)",
         "season": 1,
         "episode": 1,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 1. Naruto steals the Scroll of Sealing, learns Shadow Clones, and forms Team 7 with Sasuke and Sakura under Kakashi.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:2",
-        "title": "Volume 2",
+        "title": "Episode 02 - The Worst Client (Ch. 8–16)",
         "season": 1,
         "episode": 2,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 2. Team 7 takes a C-rank mission to escort bridge-builder Tazuna to the Land of Waves and faces Zabuza Momochi.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:3",
-        "title": "Volume 3",
+        "title": "Episode 03 - For My Dream! (Ch. 17–27)",
         "season": 1,
         "episode": 3,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 3. The climax of the Land of Waves arc; Haku and Zabuza make their final stand on the Great Naruto Bridge.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:4",
-        "title": "Volume 4",
+        "title": "Episode 04 - The Hero's Bridge! (Ch. 28–36)",
         "season": 1,
         "episode": 4,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 4. The Chunin Exams begin in Konoha. Team 7 passes the written portion and enters the Forest of Death.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:5",
-        "title": "Volume 5",
+        "title": "Episode 05 - The Challengers! (Ch. 37–45)",
         "season": 1,
         "episode": 5,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 5. Orochimaru attacks Team 7 in the Forest of Death and brands Sasuke with the Cursed Seal of Heaven.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:6",
-        "title": "Volume 6",
+        "title": "Episode 06 - Predator (Ch. 46–54)",
         "season": 1,
         "episode": 6,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 6. Preliminary rounds of the Chunin Exams commence in the Third Exam arena.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:7",
-        "title": "Volume 7",
+        "title": "Episode 07 - The Right Path! (Ch. 55–63)",
         "season": 1,
         "episode": 7,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 7. The preliminaries continue with intense matchups, including Sakura vs. Ino and Rock Lee vs. Gaara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:8",
-        "title": "Volume 8",
+        "title": "Episode 08 - Life-or-Death Battles! (Ch. 64–72)",
         "season": 1,
         "episode": 8,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 8. Preliminaries conclude. Jiraiya takes Naruto under his wing to teach him the Summoning Jutsu.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:9",
-        "title": "Volume 9",
+        "title": "Episode 09 - Neji vs Hinata (Ch. 73–81)",
         "season": 1,
         "episode": 9,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 9. Naruto clashes with Neji Hyuga in the main finals of the Chunin Exams.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:10",
-        "title": "Volume 10",
+        "title": "Episode 10 - A Splendid Ninja! (Ch. 82–90)",
         "season": 1,
         "episode": 10,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 10. Sasuke battles Gaara, triggering the surprise invasion of Konoha by Sound and Sand shinobi.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:11",
-        "title": "Volume 11",
+        "title": "Episode 11 - Seeking Apprenticeship! (Ch. 91–99)",
         "season": 1,
         "episode": 11,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 11. Third Hokage Hiruzen Sarutobi fights Orochimaru using the Reaper Death Seal.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:12",
-        "title": "Volume 12",
+        "title": "Episode 12 - The Great Flight! (Ch. 100–108)",
         "season": 1,
         "episode": 12,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 12. Naruto summons Gamabunta to duel Gaara transformed into the One-Tail Shukaku.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:13",
-        "title": "Volume 13",
+        "title": "Episode 13 - The Chunin Exams, Concluded! (Ch. 109–117)",
         "season": 1,
         "episode": 13,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 13. The Konoha Crush arc concludes with the funeral of the Third Hokage.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:14",
-        "title": "Volume 14",
+        "title": "Episode 14 - Hokage vs Hokage! (Ch. 118–126)",
         "season": 1,
         "episode": 14,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 14. Itachi Uchiha and Kisame Hoshigaki arrive in Konoha hunting the Nine-Tails.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:15",
-        "title": "Volume 15",
+        "title": "Episode 15 - Naruto's Ninja Handbook! (Ch. 127–135)",
         "season": 1,
         "episode": 15,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 15. Naruto and Jiraiya search for Tsunade; Jiraiya begins training Naruto in the Rasengan.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:16",
-        "title": "Volume 16",
+        "title": "Episode 16 - Eulogy (Ch. 136–144)",
         "season": 1,
         "episode": 16,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 16. The Legendary Sanin battle: Jiraiya and Tsunade face Orochimaru and Kabuto.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:17",
-        "title": "Volume 17",
+        "title": "Episode 17 - Itachi's Power! (Ch. 145–153)",
         "season": 1,
         "episode": 17,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 17. Tsunade accepts the title of Fifth Hokage and returns to heal Konoha.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:18",
-        "title": "Volume 18",
+        "title": "Episode 18 - Tsunade's Decision! (Ch. 154–162)",
         "season": 1,
         "episode": 18,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 18. Sasuke grows bitter over Naruto's rapid growth and challenges him on the hospital roof.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:19",
-        "title": "Volume 19",
+        "title": "Episode 19 - The Successor (Ch. 163–171)",
         "season": 1,
         "episode": 19,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 19. The Sound Four arrive in Konoha to entice Sasuke to join Orochimaru.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:20",
-        "title": "Volume 20",
+        "title": "Episode 20 - Naruto vs Sasuke! (Ch. 172–180)",
         "season": 1,
         "episode": 20,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 20. The Sasuke Retrieval Squad is formed under newly promoted Chunin Shikamaru Nara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:21",
-        "title": "Volume 21",
+        "title": "Episode 21 - Pursuit (Ch. 181–189)",
         "season": 1,
         "episode": 21,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 21. Choji fights Jirobo and Neji fights Kidomaru in life-or-death 1v1 battles.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:22",
-        "title": "Volume 22",
+        "title": "Episode 22 - Comrades (Ch. 190–198)",
         "season": 1,
         "episode": 22,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 22. Kiba fights Sakon/Ukon while Shikamaru strategizes against Tayuya.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:23",
-        "title": "Volume 23",
+        "title": "Episode 23 - Predicament (Ch. 199–207)",
         "season": 1,
         "episode": 23,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 23. Rock Lee and the Sand Siblings (Gaara, Kankuro, Temari) reinforce the retrieval team against Kimimaro.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:24",
-        "title": "Volume 24",
+        "title": "Episode 24 - Unorthodox (Ch. 208–217)",
         "season": 1,
         "episode": 24,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 24. Naruto confronts Sasuke at the Valley of the End.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:25",
-        "title": "Volume 25",
+        "title": "Episode 25 - Itachi And Sasuke, Brothers (Ch. 218–228)",
         "season": 1,
         "episode": 25,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 25. Flashback to the Uchiha Clan Massacre and the night Sasuke lost his family.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:26",
-        "title": "Volume 26",
+        "title": "Episode 26 - Awakening (Ch. 229–235)",
         "season": 1,
         "episode": 26,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 26. One-Tailed Naruto vs. Curse Mark Stage 2 Sasuke at the Valley of the End. Part 1 Climax.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
-        "id": "naruto_kai:27",
-        "title": "Volume 27",
+        "id": "naruto_kai:27a",
+        "title": "Episode 27 A - Day of Departure! (Ch. 236–238)",
         "season": 1,
         "episode": 27,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "overview": "Adapts Volume 27 (Part 1). The aftermath of the Valley of the End fight. Naruto leaves Konoha with Jiraiya for 2.5 years of training.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:27b",
+        "title": "Episode 27 B - Kakashi Chronicles (Ch. 239–244)",
+        "season": 1,
+        "episode": 28,
+        "overview": "Adapts Volume 27 (Part 2). Kakashi Gaiden: Young Kakashi, Obito Uchiha, and Rin Nohara on their tragic mission at Kannabi Bridge.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:28",
-        "title": "Volume 28",
+        "title": "Episode 28 - Naruto's Homecoming! (Ch. 245–253)",
         "season": 1,
-        "episode": 28,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 29,
+        "overview": "Adapts Volume 28. Naruto returns to Konoha. Akatsuki's Deidara and Sasori attack the Sunagakure to capture Kazekage Gaara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:29",
-        "title": "Volume 29",
+        "title": "Episode 29 - Kakashi vs Itachi! (Ch. 254–262)",
         "season": 1,
-        "episode": 29,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 30,
+        "overview": "Adapts Volume 29. Team Kakashi and Team Guy head to the Sand Village to rescue Gaara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:30",
-        "title": "Volume 30",
+        "title": "Episode 30 - Puppet Masters (Ch. 263–271)",
         "season": 1,
-        "episode": 30,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 31,
+        "overview": "Adapts Volume 30. Chiyo and Sakura fight Sasori while Naruto and Kakashi pursue Deidara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:31",
-        "title": "Volume 31",
+        "title": "Episode 31 - Entrusted Feelings! (Ch. 272–281)",
         "season": 1,
-        "episode": 31,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 32,
+        "overview": "Adapts Volume 31. Kazekage Rescue climax; Chiyo uses her life force jutsu to revive Gaara.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:32",
-        "title": "Volume 32",
+        "title": "Episode 32 - The Road to Sasuke! (Ch. 282–290)",
         "season": 1,
-        "episode": 32,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 33,
+        "overview": "Adapts Volume 32. Sai and Captain Yamato join Team 7 for a mission to intercept Orochimaru's spy at Tenchi Bridge.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:33",
-        "title": "Volume 33",
+        "title": "Episode 33 - Top-Secret Mission! (Ch. 291–299)",
         "season": 1,
-        "episode": 33,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 34,
+        "overview": "Adapts Volume 33. Four-Tailed Naruto goes berserk against Orochimaru at Tenchi Bridge.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:34",
-        "title": "Volume 34",
+        "title": "Episode 34 - The Reunion! (Ch. 300–309)",
         "season": 1,
-        "episode": 34,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 35,
+        "overview": "Adapts Volume 34. Team 7 infiltrates Orochimaru's hideout and reunites with Sasuke after 3 years.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:35",
-        "title": "Volume 35",
+        "title": "Episode 35 - The New Duo! (Ch. 310–319)",
         "season": 1,
-        "episode": 35,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 36,
+        "overview": "Adapts Volume 35. Naruto begins Wind-style nature transformation training. Akatsuki members Hidan and Kakuzu invade the Land of Fire.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:36",
-        "title": "Volume 36",
+        "title": "Episode 36 - Team 10 (Ch. 320–329)",
         "season": 1,
-        "episode": 36,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 37,
+        "overview": "Adapts Volume 36. Team 10 battles Hidan and Kakuzu; Asuma Sarutobi makes the ultimate sacrifice.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:37",
-        "title": "Volume 37",
+        "title": "Episode 37 - Shikamaru's Battle! (Ch. 330–339)",
         "season": 1,
-        "episode": 37,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 38,
+        "overview": "Adapts Volume 37. Shikamaru executes his master plan against Hidan while Naruto unveils the Wind Style: Rasenshuriken.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:38",
-        "title": "Volume 38",
+        "title": "Episode 38 - The Fruits of Training! (Ch. 340–349)",
         "season": 1,
-        "episode": 38,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 39,
+        "overview": "Adapts Volume 38. Sasuke turns against Orochimaru and forms Team Hebi to hunt Itachi.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:39",
-        "title": "Volume 39",
+        "title": "Episode 39 - On the Move (Ch. 350–359)",
         "season": 1,
-        "episode": 39,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 40,
+        "overview": "Adapts Volume 39. Deidara fights Sasuke in an explosive battle of art and Sharingan.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:40",
-        "title": "Volume 40",
+        "title": "Episode 40 - The Ultimate Art! (Ch. 360–369)",
         "season": 1,
-        "episode": 40,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 41,
+        "overview": "Adapts Volume 40. Jiraiya infiltrates the Hidden Rain Village to uncover the identity of Akatsuki leader Pain.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:41",
-        "title": "Volume 41",
+        "title": "Episode 41 - Jiraiya's Choice! (Ch. 370–379)",
         "season": 1,
-        "episode": 41,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 42,
+        "overview": "Adapts Volume 41. Jiraiya enters Sage Mode against Pain's Six Paths and leaves his final encoded message.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:42",
-        "title": "Volume 42",
+        "title": "Episode 42 - The Secret of the Mangekyo! (Ch. 380–389)",
         "season": 1,
-        "episode": 42,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 43,
+        "overview": "Adapts Volume 42. Sasuke vs. Itachi Uchiha; the truth behind the Mangekyo Sharingan is revealed.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:43",
-        "title": "Volume 43",
+        "title": "Episode 43 - The One Who Knows the Truth (Ch. 390–399)",
         "season": 1,
-        "episode": 43,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 44,
+        "overview": "Adapts Volume 43. Tobi reveals the dark secret of the Uchiha Massacre to Sasuke, prompting him to form Team Taka.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:44",
-        "title": "Volume 44",
+        "title": "Episode 44 - Inheriting Sage Jutsu! (Ch. 400–408)",
         "season": 1,
-        "episode": 44,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 45,
+        "overview": "Adapts Volume 44. Naruto travels to Mount Myoboku to learn Toad Sage Mode while Sasuke attacks Killer Bee.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:45",
-        "title": "Volume 45",
+        "title": "Episode 45 - Leaf Battlefield (Ch. 409–417)",
         "season": 1,
-        "episode": 45,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 46,
+        "overview": "Adapts Volume 45. Pain invades Konoha, devastating the village in search of the Nine-Tails.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:46",
-        "title": "Volume 46",
+        "title": "Episode 46 - Naruto Returns! (Ch. 418–427)",
         "season": 1,
-        "episode": 46,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 47,
+        "overview": "Adapts Volume 46. Sage Mode Naruto arrives to defend Konoha against Pain.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:47",
-        "title": "Volume 47",
+        "title": "Episode 47 - The Broken Seal! (Ch. 428–437)",
         "season": 1,
-        "episode": 47,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 48,
+        "overview": "Adapts Volume 47. Hinata defends Naruto; Naruto loses control and enters Eight-Tails form.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:48",
-        "title": "Volume 48",
+        "title": "Episode 48 - The Cheering Village! (Ch. 438–447)",
         "season": 1,
-        "episode": 48,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 49,
+        "overview": "Adapts Volume 48. Naruto meets Minato Namikaze inside his inner mind and confronts Nagato.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:49",
-        "title": "Volume 49",
+        "title": "Episode 49 - The Five Kage Summit Commences! (Ch. 448–457)",
         "season": 1,
-        "episode": 49,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 50,
+        "overview": "Adapts Volume 49. The Five Kage assemble in the Land of Iron; Danzo Shimura acts as interim Sixth Hokage.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:50",
-        "title": "Volume 50",
+        "title": "Episode 50 - Water Prison Death Match (Ch. 458–467)",
         "season": 1,
-        "episode": 50,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 51,
+        "overview": "Adapts Volume 50. Sasuke crashes the Five Kage Summit; Tobi declares the Fourth Shinobi World War.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:51",
-        "title": "Volume 51",
+        "title": "Episode 51 - Sasuke vs Danzo! (Ch. 468–477)",
         "season": 1,
-        "episode": 51,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 52,
+        "overview": "Adapts Volume 51. Sasuke battles Danzo Shimura and exacts vengeance for Itachi.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:52",
-        "title": "Volume 52",
+        "title": "Episode 52 - Team 7, Together Again! (Ch. 478–487)",
         "season": 1,
-        "episode": 52,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 53,
+        "overview": "Adapts Volume 52. Naruto, Sakura, and Kakashi confront Sasuke before he receives Itachi's eyes.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:53",
-        "title": "Volume 53",
+        "title": "Episode 53 - Naruto's Birth (Ch. 488–497)",
         "season": 1,
-        "episode": 53,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 54,
+        "overview": "Adapts Volume 53. Naruto travels to the Falls of Truth on Turtle Island to master the Nine-Tails with Killer Bee.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:54",
-        "title": "Volume 54",
+        "title": "Episode 54 - Bridge To Peace (Ch. 498–507)",
         "season": 1,
-        "episode": 54,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 55,
+        "overview": "Adapts Volume 54. Naruto meets Kushina Uzumaki and unlocks Nine-Tails Chakra Mode. Kisame fights Guy.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:55",
-        "title": "Volume 55",
+        "title": "Episode 55 - The Great War Begins (Ch. 508–516)",
         "season": 1,
-        "episode": 55,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 56,
+        "overview": "Adapts Volume 55. Konan fights Tobi in the Hidden Rain. The Allied Shinobi Forces mobilize for war.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:56",
-        "title": "Volume 56",
+        "title": "Episode 56 - Team Asuma's Reunion! (Ch. 517–525)",
         "season": 1,
-        "episode": 56,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 57,
+        "overview": "Adapts Volume 58. Reanimated shinobi take the battlefield; Team 10 faces their former master Asuma.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:57",
-        "title": "Volume 57",
+        "title": "Episode 57 - Naruto Heads to the Battlefield! (Ch. 526–534)",
         "season": 1,
-        "episode": 57,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 58,
+        "overview": "Adapts Volume 57. Naruto breaks through the barrier to join the war effort.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:58",
-        "title": "Volume 58",
+        "title": "Episode 58 - Naruto vs Itachi! (Ch. 535–544)",
         "season": 1,
-        "episode": 58,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 59,
+        "overview": "Adapts Volume 58. Reanimated Itachi and Nagato fight Naruto and Bee; Itachi breaks Kabuto's control with Shisui's eye.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:59",
-        "title": "Volume 59",
+        "title": "Episode 59 - The Five Kage, Assembled! (Ch. 545–554)",
         "season": 1,
-        "episode": 59,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 60,
+        "overview": "Adapts Volume 59. The real Madara Uchiha is reanimated on the battlefield against the Five Kage.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:60",
-        "title": "Volume 60",
+        "title": "Episode 60 - Kurama! (Ch. 555–564)",
         "season": 1,
-        "episode": 60,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 61,
+        "overview": "Adapts Volume 60. Naruto connects with Kurama and unlocks Tailed Beast Mode to fight the reanimated Jinchuriki.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:61",
-        "title": "Volume 61",
+        "title": "Episode 61 - Brothers, United! (Ch. 565–574)",
         "season": 1,
-        "episode": 61,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 62,
+        "overview": "Adapts Volume 61. Itachi and Sasuke team up to battle Kabuto and release the Reanimation Jutsu.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:62",
-        "title": "Volume 62",
+        "title": "Episode 62 - The Crack (Ch. 575–584)",
         "season": 1,
-        "episode": 62,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 63,
+        "overview": "Adapts Volume 62. Naruto, Bee, Kakashi, and Guy unmask Tobi, revealing Obito Uchiha.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:63",
-        "title": "Volume 63",
+        "title": "Episode 63 - World of Dreams (Ch. 585–594)",
         "season": 1,
-        "episode": 63,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 64,
+        "overview": "Adapts Volume 63. The Ten-Tails is revived on the battlefield.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:64",
-        "title": "Volume 64",
+        "title": "Episode 64 - Ten Tails (Ch. 595–607)",
         "season": 1,
-        "episode": 64,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 65,
+        "overview": "Adapts Volume 64. Neji Hyuga sacrifices his life to protect Naruto and Hinata.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:65",
-        "title": "Volume 65",
+        "title": "Episode 65 - Hashirama and Madara (Ch. 608–617)",
         "season": 1,
-        "episode": 65,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 66,
+        "overview": "Adapts Volume 65. Orochimaru reanimates the Four Hokage so Sasuke can learn the true history of Konoha.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:66",
-        "title": "Volume 66",
+        "title": "Episode 66 - A New Three-Way Deadlock! (Ch. 618–627)",
         "season": 1,
-        "episode": 66,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 67,
+        "overview": "Adapts Volume 66. The Hokage join the war; Team 7 reunites on the front lines.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:67",
-        "title": "Volume 67",
+        "title": "Episode 67 - Breakthrough (Ch. 628–637)",
         "season": 1,
-        "episode": 67,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 68,
+        "overview": "Adapts Volume 67. Obito becomes the Ten-Tails Jinchuriki.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:68",
-        "title": "Volume 68",
+        "title": "Episode 68 - Naruto's Path (Ch. 638–647)",
         "season": 1,
-        "episode": 68,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 69,
+        "overview": "Adapts Volume 68. The Shinobi Alliance pulls the Tailed Beasts out of Obito.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:69",
-        "title": "Volume 69",
+        "title": "Episode 69 - The Start of a Crimson Spring (Ch. 648–657)",
         "season": 1,
-        "episode": 69,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 70,
+        "overview": "Adapts Volume 69. Madara fully revives; Might Guy opens the Eighth Gate of Death.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:70",
-        "title": "Volume 70",
+        "title": "Episode 70 - Naruto and the Sage of Six Paths (Ch. 658–667)",
         "season": 1,
-        "episode": 70,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 71,
+        "overview": "Adapts Volume 70. Hagoromo Otsutsuki bestows Six Paths powers upon Naruto and Sasuke.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:71",
-        "title": "Volume 71",
+        "title": "Episode 71 - I Love You (Ch. 668–679)",
         "season": 1,
-        "episode": 71,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 72,
+        "overview": "Adapts Volume 71. Kaguya Otsutsuki emerges as the final threat.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       },
       {
         "id": "naruto_kai:72",
-        "title": "Volume 72",
+        "title": "Episode 72 - Naruto Uzumaki! (Ch. 680–700)",
         "season": 1,
-        "episode": 72,
-        "thumbnail": "https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/thumbnail.jpg",
-        "released": "2002-10-03T00:00:00.000Z"
+        "episode": 73,
+        "overview": "Adapts Volume 72. Team 7 seals Kaguya; Naruto and Sasuke settle their fate at the Valley of the End. Epilogue included.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:shinden_1",
+        "title": "Shinden 1 - Itachi Shinden Part 1: Bright Light",
+        "season": 2,
+        "episode": 1,
+        "overview": "Light novel adaptation of Itachi Uchiha's childhood, entrance into ANBU, and relationship with Shisui.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:shinden_2",
+        "title": "Shinden 2 - Itachi Shinden Part 2: Dark Night",
+        "season": 2,
+        "episode": 2,
+        "overview": "Light novel adaptation detailing the tragic events leading directly to the Uchiha Clan Massacre.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:movie_the_last",
+        "title": "Movie - The Last: Naruto the Movie (2014)",
+        "season": 2,
+        "episode": 3,
+        "overview": "Canonical post-war film set 2 years after Chapter 699. Naruto and Team 7 travel to the moon to stop Toneri Otsutsuki.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:omake",
+        "title": "Extra - Kakashi Sensei's Real Face! (Omake)",
+        "season": 2,
+        "episode": 4,
+        "overview": "Special comedy short where Team 7 attempts to unmask Kakashi Hatake.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
+      },
+      {
+        "id": "naruto_kai:scroll_of_wind",
+        "title": "Extra - Scroll of Wind: The True Face (Special)",
+        "season": 2,
+        "episode": 5,
+        "overview": "Official manga side-story adaptation celebrating the Naruto exhibition.",
+        "thumbnail": "https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/assets/thumbnail.jpg",
+        "released": "2018-08-04T21:30:00.000Z"
       }
     ]
   }

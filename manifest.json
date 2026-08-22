@@ -1,8 +1,8 @@
 {
   "id": "org.narutokai.stremio.static",
-  "version": "1.0.1",
-  "name": "Naruto Kai",
-  "description": "Stream Naruto Kai (Volumes 1-72) directly via P2P torrent player.",
+  "version": "1.1",
+  "name": "Naruto Kai Ultimate Subbed Edition",
+  "description": "NARUTO KAI: ULTIMATE SUBBED EDITION\n\nA fan project dedicated to removing filler, padding, and executive recaps from the anime. Each episode roughly corresponds to one manga volume (1–72). \n\nIncludes re-translated Japanese dub subtitles, restored canonical scenes, Omake extras, The Last: Naruto the Movie, and Itachi Shinden.\n\nNyaa Torrent: https://nyaa.si/?q=671b08e4ff6d2b2630cd5dd4b894f79e01c5f2ff\n\n--------------------------------------------------\nNote on Complete Canon:\nTo watch 100% of canonical Naruto prior to Boruto, watch these outside this torrent:\n• The Day Naruto Became Hokage (OVA)\n• Naruto Shippuden Episodes 484–500 (Blank Period Novels: Sasuke Shinden, Shikamaru Hiden, and Konoha Hiden)",
   "resources": [
     "catalog",
     "meta",
@@ -15,7 +15,7 @@
     {
       "type": "series",
       "id": "narutokai_catalog",
-      "name": "Naruto Kai"
+      "name": "Naruto Kai Ultimate Subbed Edition"
     }
   ]
 }
