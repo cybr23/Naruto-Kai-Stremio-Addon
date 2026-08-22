@@ -30,8 +30,8 @@ Nyaa Torrent: ${NYAA_URL}
 --------------------------------------------------
 Note on Complete Canon:
 To watch 100% of canonical Naruto prior to Boruto, watch these outside this torrent:
-• The Day Naruto Became Hokage (OVA)
-• Naruto Shippuden Episodes 484–500 (Blank Period Novels: Sasuke Shinden, Shikamaru Hiden, and Konoha Hiden)`;
+- The Day Naruto Became Hokage (OVA)
+- Naruto Shippuden Episodes 484–500 (Blank Period Novels: Sasuke Shinden, Shikamaru Hiden, and Konoha Hiden)`;
 
 // Media mapping categorized by seasons
 // Season 1: Main Manga Canon (Volumes 1–72)
@@ -131,12 +131,13 @@ fs.mkdirSync(path.join(OUT_DIR, "stream", "series"), { recursive: true });
 
 // 1. Manifest
 const manifest = {
-  id: "org.narutokai.stremio.static",
-  version: "1.1",
+  id: "com.github.cybr23.naruto-kai-stremio-addon",
+  version: "1.2.0",
   name: SERIES_NAME,
   description: DESCRIPTION,
   resources: ["catalog", "meta", "stream"],
   types: ["series"],
+  idPrefixes: ["naruto_kai"],
   catalogs: [
     {
       type: "series",
@@ -216,4 +217,4 @@ MEDIA_LIST.forEach((item) => {
   fs.writeFileSync(path.join(OUT_DIR, "stream", "series", `naruto_kai:${item.id}.json`), JSON.stringify(stream, null, 2));
 });
 
-console.log("Static addon v1.1 files successfully built with updated release dates!");
+console.log("Static addon v1.2.0 files successfully built!");
