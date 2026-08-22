@@ -7,7 +7,7 @@ const GITHUB_REPO = "Naruto-Kai-Stremio-Addon";
 
 const BASE_URL = `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main`;
 const INFO_HASH = "671b08e4ff6d2b2630cd5dd4b894f79e01c5f2ff";
-const NYAA_URL = `https://nyaa.si/?q=${INFO_HASH}`;
+const NYAA_URL = "https://nyaa.si/view/1063188";
 const OUT_DIR = __dirname;
 const SERIES_NAME = "Naruto Kai Ultimate Subbed Edition";
 const RELEASE_DATE = "2018-08-04T21:30:00.000Z";
@@ -21,7 +21,11 @@ const ARTWORK = {
 
 const DESCRIPTION = `NARUTO KAI: ULTIMATE SUBBED EDITION
 
-A fan project dedicated to removing filler, padding, and executive recaps from the anime. Each episode roughly corresponds to one manga volume (1–72). 
+A fan project dedicated to removing filler, padding, and executive recaps from the anime.
+
+Structure:
+- Season 1: Manga Content (Volumes 1–72)
+- Season 2: Post-Series Content (Shinden Novels, The Last Movie, Extras)
 
 Includes re-translated Japanese dub subtitles, restored canonical scenes, Omake extras, The Last: Naruto the Movie, and Itachi Shinden.
 
@@ -34,10 +38,10 @@ To watch 100% of canonical Naruto prior to Boruto, watch these outside this torr
 - Naruto Shippuden Episodes 484–500 (Blank Period Novels: Sasuke Shinden, Shikamaru Hiden, and Konoha Hiden)`;
 
 // Media mapping categorized by seasons
-// Season 1: Main Manga Canon (Volumes 1–72)
-// Season 2: Post-Series Extras / Movies / Shinden
+// Season 1: Manga Content (Volumes 1–72)
+// Season 2: Post-Series Content (Movies / Extras / Shinden)
 const MEDIA_LIST = [
-  // Season 1 - Manga Canon (Episodes 1–26)
+  // Season 1 - Manga Content (Episodes 1–26)
   { id: "1", season: 1, title: "Episode 01 - Naruto Uzumaki! (Ch. 1–7)", fileIdx: 2, overview: "Adapts Volume 1. Naruto steals the Scroll of Sealing, learns Shadow Clones, and forms Team 7 with Sasuke and Sakura under Kakashi." },
   { id: "2", season: 1, title: "Episode 02 - The Worst Client (Ch. 8–16)", fileIdx: 3, overview: "Adapts Volume 2. Team 7 takes a C-rank mission to escort bridge-builder Tazuna to the Land of Waves and faces Zabuza Momochi." },
   { id: "3", season: 1, title: "Episode 03 - For My Dream! (Ch. 17–27)", fileIdx: 4, overview: "Adapts Volume 3. The climax of the Land of Waves arc; Haku and Zabuza make their final stand on the Great Naruto Bridge." },
@@ -116,7 +120,7 @@ const MEDIA_LIST = [
   { id: "71", season: 1, title: "Episode 71 - I Love You (Ch. 668–679)", fileIdx: 73, overview: "Adapts Volume 71. Kaguya Otsutsuki emerges as the final threat." },
   { id: "72", season: 1, title: "Episode 72 - Naruto Uzumaki! (Ch. 680–700)", fileIdx: 74, overview: "Adapts Volume 72. Team 7 seals Kaguya; Naruto and Sasuke settle their fate at the Valley of the End. Epilogue included." },
 
-  // Season 2 - Post-Series Extras / Movies / Shinden
+  // Season 2 - Post-Series Content (Extras / Movies / Shinden)
   { id: "shinden_1", season: 2, title: "Shinden 1 - Itachi Shinden Part 1: Bright Light", fileIdx: 0, overview: "Light novel adaptation of Itachi Uchiha's childhood, entrance into ANBU, and relationship with Shisui." },
   { id: "shinden_2", season: 2, title: "Shinden 2 - Itachi Shinden Part 2: Dark Night", fileIdx: 1, overview: "Light novel adaptation detailing the tragic events leading directly to the Uchiha Clan Massacre." },
   { id: "movie_the_last", season: 2, title: "Movie - The Last: Naruto the Movie (2014)", fileIdx: 75, overview: "Canonical post-war film set 2 years after Chapter 699. Naruto and Team 7 travel to the moon to stop Toneri Otsutsuki." },
@@ -132,7 +136,7 @@ fs.mkdirSync(path.join(OUT_DIR, "stream", "series"), { recursive: true });
 // 1. Manifest
 const manifest = {
   id: "com.github.cybr23.naruto-kai-stremio-addon",
-  version: "1.2.0",
+  version: "1.3.0",
   name: SERIES_NAME,
   description: DESCRIPTION,
   resources: ["catalog", "meta", "stream"],
@@ -217,4 +221,4 @@ MEDIA_LIST.forEach((item) => {
   fs.writeFileSync(path.join(OUT_DIR, "stream", "series", `naruto_kai:${item.id}.json`), JSON.stringify(stream, null, 2));
 });
 
-console.log("Static addon v1.2.0 files successfully built!");
+console.log("Static addon v1.3.0 files successfully built!");
