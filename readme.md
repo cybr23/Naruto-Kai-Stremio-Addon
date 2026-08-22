@@ -10,8 +10,6 @@ A Stremio addon for **Naruto Kai Ultimate Subbed Edition**. This fan project str
    ```text
    https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json
 
-```
-
 2. Paste it into the search/URL bar in **Stremio**.
 3. Click **Install**.
 
