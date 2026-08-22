@@ -8,5 +8,5 @@ A static Stremio addon for **Naruto Kai Ultimate Subbed Edition**. This fan proj
 
 1. copy the manifest URL:
    ```text
-   https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json```
+   https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json
 2. paste the manifest URL into the stremio search bar
