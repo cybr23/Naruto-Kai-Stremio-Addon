@@ -1,4 +1,3 @@
-```markdown
 # Naruto Kai Ultimate Subbed Edition — Stremio Addon
 
 A Stremio addon for **Naruto Kai Ultimate Subbed Edition**. This fan project stream-lines the entire *Naruto* and *Naruto Shippuden* anime by removing filler, openings/endings, recaps, and padding. Each episode roughly corresponds to one manga volume (1–72).
