@@ -1,12 +1,12 @@
-# Naruto Kai Stremio Addon
+# Naruto Kai Ultimate Subbed Edition — Stremio Addon
 
-A static stremio addon to stream **Naruto Kai (Volumes 1–72)** directly using stremio's built-in P2P torrent engine.
+A static Stremio addon for **Naruto Kai Ultimate Subbed Edition**. This fan project stream-lines the entire *Naruto* and *Naruto Shippuden* anime by removing filler, openings/endings, recaps, and padding. Each episode roughly corresponds to one manga volume (1–72).
 
 ---
 
-##  Manifest Install Link
+## Quick Install
 
-Copy and paste this URL directly into the Stremio search bar:
-
-```text
-[https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/manifest.json](https://cdn.jsdelivr.net/gh/cybr23/Naruto-Kai-Stremio-Addon@main/manifest.json)
+1. copy the manifest URL:
+   ```text
+   https://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json```
+2. paste the manifest URL into the stremio search bar
