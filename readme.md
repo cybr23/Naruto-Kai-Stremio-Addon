@@ -15,7 +15,7 @@ A Stremio addon for **Naruto Kai Ultimate Subbed Edition**. This fan project str
 
 *Or click here to install directly:*
 
-[Install on Stremio](stremio://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json)
+[Install on Stremio](https://cybr23.github.io/Naruto-Kai-Stremio-Addon/)
 
 > **Note:** Streaming on Stremio Web requires a local Stremio Streaming Server running.
 
