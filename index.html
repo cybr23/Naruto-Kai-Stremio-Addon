@@ -1,9 +1,56 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="refresh" content="0; url=stremio://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Install Naruto Kai Addon</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background-color: #0e0f12;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .card {
+      background: #17191c;
+      padding: 2.5rem;
+      border-radius: 12px;
+      text-align: center;
+      border: 1px solid #282b30;
+      max-width: 360px;
+    }
+    h1 { font-size: 1.4rem; margin-bottom: 0.5rem; }
+    p { color: #8f939d; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    .btn {
+      display: inline-block;
+      background-color: #6c5ce7;
+      color: #fff;
+      padding: 12px 24px;
+      text-decoration: none;
+      font-weight: 600;
+      border-radius: 6px;
+    }
+    .btn:hover { background-color: #5b4bc4; }
+  </style>
 </head>
 <body>
-  <p>Redirecting to Stremio... <a href="stremio://raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json">Click here</a> if it doesn't open.</p>
+  <div class="card">
+    <h1>Naruto Kai Addon</h1>
+    <p>Redirecting to Stremio...</p>
+    <a id="install" href="#" class="btn">Install Addon</a>
+  </div>
+
+  <script>
+    const manifest = "raw.githubusercontent.com/cybr23/Naruto-Kai-Stremio-Addon/main/manifest.json";
+    const link = "stremio://" + manifest;
+    document.getElementById("install").href = link;
+    
+    // Attempt auto-redirect
+    window.location.href = link;
+  </script>
 </body>
 </html>
